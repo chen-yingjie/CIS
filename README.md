@@ -1,6 +1,6 @@
 # Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition
 
-Official implementation of "Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition" (AAAI 2022)[paper](https://arxiv.org/abs/2204.07935).
+Official implementation of "[Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition](https://arxiv.org/abs/2204.07935)" (AAAI 2022).
 
 <p align="center">
 <img src="images/CIS_overview.png" width="88%" />
